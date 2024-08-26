@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💜
 
-Meu nome é Gabriel ricardo
+Meu nome é Gabriel Ricardo
 
 - Estou estudando na Alura;
 - Estou me desenvolvendo na linguagem javaScript
